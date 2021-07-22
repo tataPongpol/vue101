@@ -1,8 +1,8 @@
 <template>
   <div>
-      <counter></counter>
-      <counter></counter>
-      <counter></counter>
+      <counter :init-number="2"></counter>
+      <counter :init-number="1"></counter>
+      <counter :init-number="-1"></counter>
       <counter></counter>
   </div>
 </template>

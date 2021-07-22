@@ -1,0 +1,17 @@
+[
+    {
+        "name": {
+            "english": "Bulbasaur",
+            "japanese": "Fushikidane"
+        },
+        "type": ["Grass", "Poison"]
+    },
+    {
+        "name": {
+            "english": "Bulbasaur 2",
+            "japanese": "Fushikidane 2"
+        },
+        "type": ["Grass", "Poison"]
+    }
+]
+ 
