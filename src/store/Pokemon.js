@@ -3,8 +3,8 @@ import Vuex from 'vuex'
 import axios from 'axios'
 
 let api_endpoint = 
-  // "https://raw.githubusercontent.com/fanzeyi/pokemon.json/master/pokedex.json"
-  "/dataPokemon.json";
+  "https://raw.githubusercontent.com/fanzeyi/pokemon.json/master/pokedex.json"
+  // "/dataPokemon.json";
 
 Vue.use(Vuex)
 
